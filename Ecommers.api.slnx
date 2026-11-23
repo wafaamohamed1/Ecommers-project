@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Commers.Infrastruser/Commers.Infrastruser.csproj" />
+  <Project Path="Ecommers.api/Ecommers.api.csproj" />
+  <Project Path="Ecommers.Apliction/Ecommers.Apliction.csproj" />
+  <Project Path="Ecommers.Domain/Ecommers.Domain.csproj" />
+</Solution>
